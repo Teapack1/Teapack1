@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teapack1
-- 👀 I’m interested in coding, automation, data science, sound engineering, 3d modeling and visualisation.
+- 👀 I’m interested in coding, automation, data science, sound engineering, 3d modeling and visualisation with Uneral Engine.
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Github
